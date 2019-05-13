@@ -137,9 +137,9 @@
 }
 
 .meta__avatar {
-	border-radius: 50%;
-	height: 50px;
-	width: 50px;
+	border-radius: 5px;
+	height: 150px;
+	width: 150px;
 }
 
 .meta__author {
