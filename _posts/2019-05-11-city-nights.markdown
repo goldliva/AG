@@ -3,7 +3,7 @@ title:  "A Craftsman Workshop"
 subtitle: "It's always a bit messy"
 author: "做好理财顾问"
 avatar: "img/authors/QR.png"
-image: "img/f.jpg"
+image: "img/d.jpg"
 date:   2019-05-13 12:12:12
 ---
 
