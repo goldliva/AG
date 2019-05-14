@@ -326,8 +326,8 @@ table tr:nth-child(2n) {
 	top: 0;
 	left: 0;
 	display: block;
-	width: auto;
-	height: auto;
+	width: 100%;
+	height: 100%;
 }
 
 .card__container--closed .card__image {
