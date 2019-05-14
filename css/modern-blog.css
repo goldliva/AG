@@ -362,3 +362,13 @@ background-size:contain|cover;
 width:100%;
 height: auto;
 }
+
+blockquote {
+  color: #FF0000;
+  border-left: 4px solid #FF0000;
+  padding-left: 15px;
+  font-size: 18px;
+  letter-spacing: -1px;
+  font-style: italic; }
+  blockquote > :last-child {
+    margin-bottom: 0; }
